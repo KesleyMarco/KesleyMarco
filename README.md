@@ -1,6 +1,11 @@
 ## Olá, Bem-Vindo ao Github do Kesley
 
-https://github-readme-stats.vercel.app/api?username=KesleyMarco&amp;show_icons=true&amp;theme=transparent
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KesleyMarco&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KesleyMarco&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 
 
